@@ -1,0 +1,10 @@
+name: MhArtifact
+version: '${project.version}'
+main: mhartifact.mhartifact.MhArtifact
+api-version: 1.18
+authors: [ Duffie13 ]
+description: Plugin used to run the RogueLite MhArtifact
+commands:
+  exitDungeon:
+    description: makes you exit the dungeon
+    usage: /exitDungeon
